@@ -1,0 +1,16 @@
+c:\users\ee210668\documents\visual studio 2017\Projects\IKENTesting\IKENTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\ee210668\documents\visual studio 2017\Projects\IKENTesting\IKENTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\ee210668\documents\visual studio 2017\Projects\IKENTesting\IKENTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\ee210668\documents\visual studio 2017\Projects\IKENTesting\IKENTesting\bin\Debug\IKENTesting.dll
+c:\users\ee210668\documents\visual studio 2017\Projects\IKENTesting\IKENTesting\bin\Debug\IKENTesting.pdb
+c:\users\ee210668\documents\visual studio 2017\Projects\IKENTesting\IKENTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\ee210668\documents\visual studio 2017\Projects\IKENTesting\IKENTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\ee210668\documents\visual studio 2017\Projects\IKENTesting\IKENTesting\bin\Debug\WebDriver.dll
+c:\users\ee210668\documents\visual studio 2017\Projects\IKENTesting\IKENTesting\bin\Debug\WebDriver.Support.dll
+c:\users\ee210668\documents\visual studio 2017\Projects\IKENTesting\IKENTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\ee210668\documents\visual studio 2017\Projects\IKENTesting\IKENTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\ee210668\documents\visual studio 2017\Projects\IKENTesting\IKENTesting\bin\Debug\WebDriver.xml
+c:\users\ee210668\documents\visual studio 2017\Projects\IKENTesting\IKENTesting\bin\Debug\WebDriver.Support.xml
+c:\users\ee210668\documents\visual studio 2017\Projects\IKENTesting\IKENTesting\obj\Debug\IKENTesting.csprojResolveAssemblyReference.cache
+c:\users\ee210668\documents\visual studio 2017\Projects\IKENTesting\IKENTesting\obj\Debug\IKENTesting.dll
+c:\users\ee210668\documents\visual studio 2017\Projects\IKENTesting\IKENTesting\obj\Debug\IKENTesting.pdb
